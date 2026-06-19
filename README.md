@@ -8,7 +8,7 @@ OSC Link Status check App for TouchOSC
 3. OSC Host(PC) IP & Sand/Recieve Port check in Connections Tab.
 (Defalt Send Port : 9000, Recieve Port : 8000)
 ---
-Script
+TouchOSC Document Script
 
 ```
 local lastSeen = 0
