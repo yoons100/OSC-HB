@@ -3,7 +3,10 @@
 # <img width="48" height="48" alt="hb_green" src="https://github.com/user-attachments/assets/052f7e98-5fe2-425c-803f-ebbcaac345d3" /> OSC Heartbeat
 OSC Link Status check App for TouchOSC
 ---
-#### TouchOSC Setup
+This app displays the link status between **TouchOSC** and the **host PC**.  
+It also allows you to check the link status between the **main PC** and the **backup PC**.  
+
+### TouchOSC Setup
 1. Copy & Paste TouchOSC Document Script.
 2. Status Box(Dot) name is "status_dot" -> IMPORTANT!!!
 3. OSC Host(PC) IP & Sand/Recieve Port check in Connections Tab.  
