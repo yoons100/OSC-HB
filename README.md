@@ -57,7 +57,7 @@ end
 
 ---
 TouchOSC Document Script : Sample 2.  
-(Vibration and flashing when the red dot is on)
+(Flashing when the red dot is on)
 ```
 local lastSeen = 0
 local lastSend = 0
