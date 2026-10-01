@@ -1,10 +1,12 @@
-![Platform](https://img.shields.io/badge/platform-Windows-blue) [![Release](https://img.shields.io/badge/Release-V1.0-fc1ba6)](https://github.com/yoons100/OSC-HB/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yoons100/OSC-HB/blob/main/LICENSE)  
+![Platform](https://img.shields.io/badge/platform-Windows-blue) [![Release](https://img.shields.io/badge/Release-V1.31-fc1ba6)](https://github.com/yoons100/OSC-HB/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yoons100/OSC-HB/blob/main/LICENSE)  
   
 # <img width="48" height="48" alt="hb_green" src="https://github.com/user-attachments/assets/052f7e98-5fe2-425c-803f-ebbcaac345d3" /> OSC Heartbeat
 OSC Link Status check App for TouchOSC
 ---
 This app displays the link status between **TouchOSC** and the **host PC**.  
 It also allows you to check the link status between the **main PC** and the **backup PC**.  
+
+<img width="344" height="508" alt="HB_Screenshot" src="https://github.com/user-attachments/assets/0831b147-dcdb-48ca-8bd6-161af8ba1478" />
 
 ### TouchOSC Setup
 1. Copy & Paste TouchOSC Document Script.
@@ -126,7 +128,5 @@ function onReceiveOSC(message, connections)
   end
 end
 ```
-<img width="572" height="414" alt="hb" src="https://github.com/user-attachments/assets/2cdb761e-fe69-4c49-856c-da411a840c10" />
-
 ---
 
