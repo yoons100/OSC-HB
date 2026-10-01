@@ -1,4 +1,4 @@
-![Platform](https://img.shields.io/badge/platform-Windows-blue) [![Release](https://img.shields.io/badge/Release-V1.31-fc1ba6)](https://github.com/yoons100/OSC-HB/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yoons100/OSC-HB/blob/main/LICENSE)  
+![Platform](https://img.shields.io/badge/platform-MacOS%20%7C%20Windows-6d9fba) [![Release](https://img.shields.io/badge/Release-V1.31-fc1ba6)](https://github.com/yoons100/OSC-HB/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yoons100/OSC-HB/blob/main/LICENSE)  
   
 # <img width="48" height="48" alt="hb_green" src="https://github.com/user-attachments/assets/052f7e98-5fe2-425c-803f-ebbcaac345d3" /> OSC Heartbeat
 OSC Link Status check App for TouchOSC
